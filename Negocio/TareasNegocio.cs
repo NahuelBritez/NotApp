@@ -8,5 +8,6 @@ namespace Negocio
 {
     internal class TareasNegocio
     {
+
     }
 }
